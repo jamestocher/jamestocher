@@ -1,8 +1,8 @@
-# Hi there! 👋
-## I'm James, and this is my GitHub profile. Over the next few months, I'll be working on filling it with awesome coding projects on my quest to become an AI Engineer!
+# **Hi there!** 👋
+## I'm James, and this is my GitHub profile. Over the next few months, I'll be working on filling it with <sub>awesome</sub> coding projects on my quest to become an AI Engineer!
 ## I've already got some skills in Max/MSP and Pure Data, but I'll be developing my python skills, as well as brushing on lots of maths!
 
-<img> https://www.google.com/url?sa=i&url=https%3A%2F%2Ftenor.com%2Fsearch%2Frainbow-frog-gifs&psig=AOvVaw3ZOGxhdSwGWSH2YZ6urWm1&ust=1711588417789000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCKjPvaehk4UDFQAAAAAdAAAAABAQ </img>
+![Dacing rainbow frog] (https://www.google.com/url?sa=i&url=https%3A%2F%2Ftenor.com%2Fsearch%2Frainbow-frog-gifs&psig=AOvVaw3ZOGxhdSwGWSH2YZ6urWm1&ust=1711588417789000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCKjPvaehk4UDFQAAAAAdAAAAABAQ)
 
 <!--
 **jamestocher/jamestocher** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
