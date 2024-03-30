@@ -1,6 +1,6 @@
 # **Hi there!** 👋
 ## I'm James, and this is my GitHub profile. Over the next few months, I'll be working on filling it with <sub>awesome</sub> coding projects on my quest to become an AI Engineer!
-## I've already got some skills in Max/MSP and Pure Data, but I'll be developing my python skills, as well as brushing on lots of maths!
+## I've already got some skills in Max/MSP and Pure Data, but I'll be developing my python skills, as well as brushing up on lots of maths!
 
 ![mlg-deal-with-it](https://github.com/jamestocher/jamestocher/assets/163058899/8f3b958f-a626-40ae-879f-d54c5dea96d9)
 
